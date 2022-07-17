@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: Mid Winter Reflection	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<atom:link href="./" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>My Portfolio and Blog</description>
 	<lastBuildDate>Sat, 29 Jan 2022 17:49:30 +0000</lastBuildDate>

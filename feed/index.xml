@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Yvan Chu</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<atom:link href="./" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>My Portfolio and Blog</description>
 	<lastBuildDate>Sat, 29 Jan 2022 17:49:30 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">./../index.html?p=290</guid>
 
-					<description><![CDATA[Gratitude I’ve been feeling a bit unmotivated this past week, although I’ve just had one of the most productive week two weeks ago too. Recently, I’ve been pretty inspired by Netero from Hunter X Hunter, especially on how his power isn’t derived from pure ambition to better himself, but rather from his gratitude towards martial&#8230;&#160;<a href="./../mid-winter-reflection/index.html" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Mid Winter Reflection</span></a>]]></description>
+					<description><![CDATA[Gratitude I’ve been feeling a bit unmotivated this past week, although I’ve just had one of the most productive week two weeks ago too. Recently, I’ve been pretty inspired by Netero from Hunter X Hunter, especially on how his power isn’t derived from pure ambition to better himself, but rather from his gratitude towards martial&#8230;&#160;<a href="./../mid-winter-reflection/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Mid Winter Reflection</span></a>]]></description>
 										<content:encoded><![CDATA[
 <h1 id="gratitude">Gratitude</h1>
 
@@ -148,7 +148,7 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">./../index.html?p=267</guid>
 
-					<description><![CDATA[The Yvan Advantage&#8230; After a lonely pandemic quarter living with my maternal grandfather in Taiwan, I finally started my internship in Taipei and began accepting the possibility of living in Taiwan for a while. I needed to go from surviving remote courses at awkward times to leveraging my unique situation as an unfair advantage. 佳馨,&#8230;&#160;<a href="./../2020-mid-summer-reflection/index.html" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">2020 Mid-Summer Reflection</span></a>]]></description>
+					<description><![CDATA[The Yvan Advantage&#8230; After a lonely pandemic quarter living with my maternal grandfather in Taiwan, I finally started my internship in Taipei and began accepting the possibility of living in Taiwan for a while. I needed to go from surviving remote courses at awkward times to leveraging my unique situation as an unfair advantage. 佳馨,&#8230;&#160;<a href="./../2020-mid-summer-reflection/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">2020 Mid-Summer Reflection</span></a>]]></description>
 										<content:encoded><![CDATA[
 <h2>The Yvan Advantage&#8230;</h2>
 
