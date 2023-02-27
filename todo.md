@@ -6,6 +6,7 @@ I think I'll use this markdown to manage how I appear to others online.
 
 ### Needs
 
+- [ ] add in nav bar
 - [ ] attach image to portfolio
 - [ ] seek feedback
 
