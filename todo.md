@@ -6,12 +6,19 @@ I think I'll use this markdown to manage how I appear to others online.
 
 ### Needs
 
-- [ ] make the nav bar not ugly
+- [x] make the nav bar not ugly
 - [ ] attach image to portfolio
+  - [ ] perhaps design the portfolio page? seems like an important part to demonstrate my web design skills
 - [ ] seek feedback
+  - [ ] Emily
+  - [ ] Product Management Prof
+  - [ ] New Venture Finance Prof
+  - [ ] Web Design person
+  - [ ] Software Engineering person
 
 ### Wants
 
+- [ ] maybe downsize some h2s into ems
 - [ ] develop an aesthetic sense
 - [ ] implement the aesthetic in pure css
 
