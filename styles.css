@@ -1,0 +1,17 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #333;
+  background-color: #fffaee;
+}
+
+img {
+  max-width: 60%;
+  height: auto;
+}
+
+@media only screen and (max-width: 600px) {
+  img {
+    max-width: 60%;
+    height: auto;
+  }
+}
