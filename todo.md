@@ -7,6 +7,8 @@ I think I'll use this markdown to manage how I appear to others online.
 ### Needs
 
 - [x] make the nav bar not ugly
+- [ ] update the about page
+- [ ] update the portfolio page with Microsoft content
 - [ ] attach image to portfolio
   - [ ] perhaps design the portfolio page? seems like an important part to demonstrate my web design skills
 - [ ] seek feedback
